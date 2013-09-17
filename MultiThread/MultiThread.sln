@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "map_lh", "map_lh\map_lh.vcxproj", "{3C8AF25A-C3FC-4ABC-85F7-2E15EFDCEE2C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01-ThreadPrintID", "ThreadPrintID\ThreadPrintID.vcxproj", "{C477D817-9A73-4F11-84A4-6CEA3DB20B1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C8AF25A-C3FC-4ABC-85F7-2E15EFDCEE2C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3C8AF25A-C3FC-4ABC-85F7-2E15EFDCEE2C}.Debug|Win32.Build.0 = Debug|Win32
+		{3C8AF25A-C3FC-4ABC-85F7-2E15EFDCEE2C}.Release|Win32.ActiveCfg = Release|Win32
+		{3C8AF25A-C3FC-4ABC-85F7-2E15EFDCEE2C}.Release|Win32.Build.0 = Release|Win32
+		{C477D817-9A73-4F11-84A4-6CEA3DB20B1F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C477D817-9A73-4F11-84A4-6CEA3DB20B1F}.Debug|Win32.Build.0 = Debug|Win32
+		{C477D817-9A73-4F11-84A4-6CEA3DB20B1F}.Release|Win32.ActiveCfg = Release|Win32
+		{C477D817-9A73-4F11-84A4-6CEA3DB20B1F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
